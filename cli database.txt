@@ -92,7 +92,19 @@ UPDATE laporan SET Apr=0 WHERE Menu='Pengguna';
 
 SELECT*FROM laporan
  
-UPDATE laporan SET Mei=449
+UPDATE laporan SET Mei=449 WHERE Menu='About';
+UPDATE laporan SET Mei=2 WHERE Menu='Cart';
+UPDATE laporan SET Mei=28 WHERE Menu='Certificate';
+UPDATE laporan SET Mei=312 WHERE Menu='Course_Detail';
+UPDATE laporan SET Mei=639 WHERE Menu='Course_List';
+UPDATE laporan SET Mei=4 WHERE Menu='Course_Package';
+UPDATE laporan SET Mei=104 WHERE Menu='Download';
+UPDATE laporan SET Mei=566 WHERE Menu='Faq';
+UPDATE laporan SET Mei=38 WHERE Menu='Forgot_Password';
+UPDATE laporan SET Mei=0 WHERE Menu='Grup';
+UPDATE laporan SET Mei=6441 WHERE Menu='Home';
+UPDATE laporan SET Mei=0 WHERE Menu='List_Category';
+UPDATE laporan SET Mei=181 WHERE Menu='Login';
 UPDATE laporan SET Mei=
 UPDATE laporan SET Mei=
 UPDATE laporan SET Mei=
@@ -110,15 +122,5 @@ UPDATE laporan SET Mei=
 UPDATE laporan SET Mei=
 UPDATE laporan SET Mei=
 UPDATE laporan SET Mei=
-UPDATE laporan SET Mei=
-UPDATE laporan SET Mei=
-UPDATE laporan SET Mei=
-UPDATE laporan SET Mei=
-UPDATE laporan SET Mei=
-UPDATE laporan SET Mei=
-UPDATE laporan SET Mei=
-UPDATE laporan SET Mei=
-UPDATE laporan SET Mei=
-UPDATE laporan SET Mei=
-UPDATE laporan SET Mei=
-UPDATE laporan SET Mei=
+
+
