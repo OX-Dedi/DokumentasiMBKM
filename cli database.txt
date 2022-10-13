@@ -59,3 +59,66 @@ UPDATE laporan SET Mar=7 WHERE Menu='Ticket_Detail';
 UPDATE laporan SET Mar=33 WHERE Menu='Transaksi';
 UPDATE laporan SET Mar=290 WHERE Menu='Tutorial';
 UPDATE laporan SET Mar=0 WHERE Menu='Pengguna';
+
+UPDATE laporan SET Apr=141 WHERE Menu='About';
+UPDATE laporan SET Apr=2 WHERE Menu='Cart';
+UPDATE laporan SET Apr=51 WHERE Menu='Certificate';
+UPDATE laporan SET Apr=266 WHERE Menu='Course_Detail';
+UPDATE laporan SET Apr=249 WHERE Menu='Course_List';
+UPDATE laporan SET Apr=13 WHERE Menu='Course_Package';
+UPDATE laporan SET Apr=118 WHERE Menu='Download';
+UPDATE laporan SET Apr=219 WHERE Menu='Faq';
+UPDATE laporan SET Apr=20 WHERE Menu='Forgot_Password';
+UPDATE laporan SET Apr=0 WHERE Menu='Grup';
+UPDATE laporan SET Apr=3858 WHERE Menu='Home';
+UPDATE laporan SET Apr=0 WHERE Menu='List_Categori';
+UPDATE laporan SET Apr=85 WHERE Menu='Login';
+UPDATE laporan SET Apr=337 WHERE Menu='My_Course';
+UPDATE laporan SET Apr=257 WHERE Menu='My_Profile';
+UPDATE laporan SET Apr=45 WHERE Menu='My_Ticket';
+UPDATE laporan SET Apr=126 WHERE Menu='News';
+UPDATE laporan SET Apr=799 WHERE Menu='News_Detail';
+UPDATE laporan SET Apr=56 WHERE Menu='Privacy_Policy';
+UPDATE laporan SET Apr=514 WHERE Menu='Register';
+UPDATE laporan SET Apr=0 WHERE Menu='Report';
+UPDATE laporan SET Apr=14 WHERE Menu='Reset_Password';
+UPDATE laporan SET Apr=9 WHERE Menu='Submit_Ticket';
+UPDATE laporan SET Apr=6 WHERE Menu='Survey';
+UPDATE laporan SET Apr=19 WHERE Menu='Terms';
+UPDATE laporan SET Apr=7 WHERE Menu='Ticket_Detail';
+UPDATE laporan SET Apr=33 WHERE Menu='Transaksi';
+UPDATE laporan SET Apr=290 WHERE Menu='Tutorial';
+UPDATE laporan SET Apr=0 WHERE Menu='Pengguna';
+
+SELECT*FROM laporan
+ 
+UPDATE laporan SET Mei=449
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
+UPDATE laporan SET Mei=
